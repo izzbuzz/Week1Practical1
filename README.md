@@ -2,9 +2,14 @@
 
 This practical is about getting familiar with the web development workflow and tools that are available for you to use in your development and testing. The practical also highlights the differences between poor HTML and quality HTML.
 The work for this practical has been broken down into 4 stages.
+## Stage 0: Create a copy of this repo in your own account
+Click the "Use this template" button above to get your own copy of this repo. If you don't see the button, you are probably not logged in to GitHub. Log in then refresh this page.
+
+You will need to do this before beginning the exercises in every practical!
+
 ## Stage 1 Exercises: Getting Online
 ### Exercise 1.1: Setting Up Git Pages
-If you haven’t already done so, you will need to follow [this tutorial](https://github.com/IM-WADD/GitPages-Tutorial) to learn how to set up Git Pages for your repositories. 
+Follow [this tutorial](https://github.com/IM-WADD/GitPages-Tutorial) to learn how to set up Git Pages for your repositories. You will not need to publish every practical as a website, but it's important to know how to do it.
 
 ### Exercise 1.2: Familiarisation with CatCatMoose
 In this repository, there is a folder called CatCatMoose, which contains a very simple website that you will use in a few exercises in the coming weeks. The website has the following structure.
