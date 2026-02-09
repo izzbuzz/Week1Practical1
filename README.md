@@ -22,22 +22,20 @@ In this repository, there is a folder called CatCatMoose, which contains a very 
     - script.js
     
 Don’t open these files in your IDE just yet. We’ll do that in Stage 3.
-Create a copy of this template repository in your own GitHub if you haven't already done so. Enable GitPages on that respository. Go the following URL on your desktop (but replace YOURUSERNAME with your Git username and Practical1 with the name you gave the repository): 
-- https://yourusername.github.io/Practical1/CatCatMoose
 
-Open the same webpage on a mobile device. I recommend bookmarking the URL above on both your personal computer and mobile device.
+Go to the following URL on your desktop (but replace YOURUSERNAME with your Git username and Practical1 with the name you gave the repository): 
+- https://yourusername.github.io/Week1Practical1/CatCatMoose
 
-You do not always need to put your websites on the Internet, as you’ll often want to test sites when run locally from your computer before putting them online.
+Open the same webpage on a mobile device. 
 
 Open the same webpage locally, by double clicking on the index.html page which will probably open it in Chrome (if Chrome is your default browser). If not, right click on the file, and open it with Chrome.
 
 Look at the file URL in Chrome, you should see that it begins file:// on a Mac or C:// on a Windows machine (if it’s stored on your C: drive) rather than http://. That’s how you know you are working on a local copy of the file.
 
 ## Stage 2 Exercises: Using Visual Studio Code
-These exercises are designed to help you become familiar with using the Visual Studio Code IDE for web development while improving your HTML skills.
+These exercises are designed to help you become familiar with using the Visual Studio Code IDE for web development and introduce some basic HTML skills.
 
 ### Exercise 2.1: Setup
-You may later choose to use a different IDE (e.g. if you have one that you are already familiar with) but for now, please give VS Code a trial even if you use something different.
 First, you will install a few VS Code extensions that will make developing websites a little easier.
 1. Open VS Code then click the Extensions button![Extensions button on VS Code](https://github.com/IM-WADD/Week1Practical1/assets/5978932/1899e4ec-a3f4-4ff2-b47c-f52b38f92979)
 2. Search for and install **HTMLHint.** Make sure the extension you install also has HTMLHint as the author name. This extension performs basic validation, like checking that open HTML tags are properly closed.
@@ -81,9 +79,7 @@ Click on the Elements tab in the menu in the developer tools to see the Document
 ### Exercise 3.2: The Device Simulator
 In the developer tools menu, just to the left of the Elements tab, you should see a tiny icon that looks like a phone and a tablet. Click on this icon to open the Device Simulator. 
 
-The Device Simulator is a very handy tool that allows you to see what a page looks like on different screen sizes right from your browser. Experiment with changing the device to different tablets and smartphones. The CatCatMoose webpage is not be responsive and therefore may appear weirdly when viewed on different size screens. We will work on making responsive websites later in the module!
-
-Use the “Edit…” option at the bottom of the dimensions list to add tablet dimensions (1280 X 800 px, landscape and portrait) and laptop dimensions (1920 x 1080 px) to your list of devices. You might want to name them something like WADD laptop and WADD tablet portrait, and WADD tablet landscape. 
+The Device Simulator is a very handy tool that allows you to see what a page looks like on different screen sizes right from your browser. Experiment with changing the device to different tablets and smartphones. The CatCatMoose webpage is not responsive and therefore may appear weirdly when viewed on different size screens. We will work on making responsive websites later in the module!
 
 Note that you can use the ![Rotate device button](https://github.com/IM-WADD/Week1Practical1/assets/5978932/60321b2f-66bd-4edb-a1d4-ba7881e99934)icon to rotate the device and preview what your website would look like on these devices when in portrait or landscape mode. 
 
@@ -92,7 +88,7 @@ There are A LOT of resources on HTML available online. Some resources are better
 
 Open both MDN and W3Schools in separate tabs. In MDN, go to References > HTML, then find the HTML Reference section and click “HTML elements”. Finally, locate the <p> element to get more information. Find the reference for the same element on W3Schools by going to References > HTML tag reference.
 
-Compare the information on each site. It is likely you will prefer one site over the other. I tend to find W3Schools a bit more accessible but, be warned, it is occasionally incomplete or not up to current standards. MDN is more reliable but also more complex.
+Compare the information on each site. It is likely you will prefer one site over the other. I tend to find W3Schools a bit more accessible but, be warned, it is occasionally incomplete. MDN is more reliable but also more complex.
 
 Both sites also provide tutorials. If you’re brand new to web development, you might find it helpful to go through the MDN [front end web development tutorial](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer) and/or the W3Schools [learn HTML tutorial](https://www.w3schools.com/html/default.asp) as well as attending lectures and practicals.
 
